@@ -14,7 +14,7 @@ To activate the syntax highlighting, add the following at the end of your .zshrc
 
 
 
-### add auto complettion
+### add auto suggestions
 ```bash
 brew install zsh-autosuggestions
 ```
@@ -22,3 +22,11 @@ brew install zsh-autosuggestions
 To activate the autosuggestions, add the following at the end of your .zshrc:
 
     source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+### add vi mode (vim)
+```bash
+brew install zsh-vi-mode
+```
+
+To activate the zsh vi mode, add the following line to your .zshrc:
+    source $(brew --prefix)/opt/zsh-vi-mode/share/zsh-vi-mode/zsh-vi-mode.plugin.zsh
