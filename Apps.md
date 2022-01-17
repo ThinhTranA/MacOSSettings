@@ -19,3 +19,8 @@ brew install --cask typora
 ```bash
 brew install --cask karabiner-elements
 ```
+
+### numi  - Calculator and Converter application
+```bash
+brew install --cask numi
+```
