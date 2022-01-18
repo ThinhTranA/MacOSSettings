@@ -24,3 +24,10 @@ brew install --cask karabiner-elements
 ```bash
 brew install --cask numi
 ```
+
+### keycastr - Keystroke visualiser
+```bash
+brew install --cask keycastr
+```
+
+https://github.com/keycastr/keycastr
