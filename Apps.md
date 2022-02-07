@@ -31,3 +31,11 @@ brew install --cask keycastr
 ```
 
 https://github.com/keycastr/keycastr
+
+### Rectangle - Window management app
+```bash
+https://github.com/rxhanson/Rectangle
+```
+
+
+https://github.com/rxhanson/Rectangle
